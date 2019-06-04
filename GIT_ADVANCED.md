@@ -1,1 +1,3 @@
-## Docs of advanced GIT 
+## Docs of advanced GIT
+1-Git merge-Git Merge. Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch
+2-Git revert-The git revert command is a forward-moving undo operation that offers a safe method of undoing changes. Instead of deleting or orphaning commits in the commit history, a revert will create a new commit that inverses the changes specified. Git revert is a safer alternative to git reset in regards to losing work.
