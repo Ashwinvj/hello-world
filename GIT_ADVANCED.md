@@ -1,3 +1,5 @@
 ## Docs of advanced GIT
-1-Git merge-Git Merge. Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch
-2-Git revert-The git revert command is a forward-moving undo operation that offers a safe method of undoing changes. Instead of deleting or orphaning commits in the commit history, a revert will create a new commit that inverses the changes specified. Git revert is a safer alternative to git reset in regards to losing work.
+- Git merge- helps in merging the branches after the codes are corrected in each branch so that the masster would be free of bugs.
+- Git revert-this helps in the undo of commit without deleting the commit which has been previously done and just by giving an another commit for the undo process
+- Git rebase- is an alternative to merge command.This would integrate changes from one branch to other
+- Git dif-this command helps to get output for two different input sets
